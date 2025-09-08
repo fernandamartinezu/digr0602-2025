@@ -49,4 +49,4 @@
 * MORAGA BETSALEL DANIEL IGNACIO
 * PARGA LÓPEZ ANTONIA PAZ
 * SANTANA VILLARROEL VIKTOR IGNACIO https://github.com/ViktorSantana1937/LabDesTEc-II/tree/main/Tarea%204
-* STUVEN CRIADO FELIPE IGNACIO
+* STUVEN CRIADO FELIPE IGNACIO https://github.com/felipeStuven/Laboratorio_tec_2/tree/main/tarea%204
