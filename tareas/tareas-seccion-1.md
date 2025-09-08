@@ -29,7 +29,7 @@
 * PADILLA CARRILLO ISIS CAROLINA https://github.com/IsisPadilla/Curso-Laboratorio/tree/main/Tarea_2
 * LIZANA ZÚÑIGA JOSEFA VALENTINA https://github.com/jo-lizana/j0-lab.2_2025-2/tree/main/tarea2
 * MEDEL ANDRADE VALENTINA ANTONIA https://github.com/valhimedel/LabDesTec/tree/main/Tarea2
-* PONCE NÚÑEZ ERIC ALEJANDRO
+* PONCE NÚÑEZ ERIC ALEJANDRO https://github.com/eric-aponce/Laboratorio-Guille/tree/main/tarea2
 * STUVEN CRIADO FELIPE IGNACIO https://github.com/felipeStuven/Laboratorio_tec_2/tree/main/Tarea%202
 * SILVA SEREÑO TAMARA SOLEDAD https://github.com/tamarasilva-uf/Curso-laboratorio/tree/main/Tarea-2
 * VERA CASTRO JAVIERA ISABEL (https://github.com/Jav1Vera/Tareas/tree/main/Tarea2)
@@ -66,6 +66,6 @@
 * MARTÍNEZ UMAÑA FERNANDA VALENTINA
 * MEDEL ANDRADE VALENTINA ANTONIA
 * PADILLA CARRILLO ISIS CAROLINA
-* PONCE NÚÑEZ ERIC ALEJANDRO https://github.com/eric-aponce/Laboratorio-Guille/tree/main/tarea2
+* PONCE NÚÑEZ ERIC ALEJANDRO https://github.com/eric-aponce/Laboratorio-Guille/tree/main/tarea%204
 * SILVA SEREÑO TAMARA SOLEDAD
 * VERA CASTRO JAVIERA ISABEL (https://github.com/Jav1Vera/Tareas/tree/839aa04cd6ac996afddbb9b1681da61ef56158ea/Tarea%204)
