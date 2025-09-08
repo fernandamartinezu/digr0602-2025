@@ -40,7 +40,7 @@
 
 ## Tarea 4
 * AGUIRRE DATTOLI CAMILA VALENTINA FRANCISCA
-* BENEVENTI GONZÁLEZ CONSTANZA ANDREA
+* BENEVENTI GONZÁLEZ CONSTANZA ANDREA https://github.com/constanzabeneventi-max/lab2/tree/main/TAREA4
 * BUSTAMANTE GANGAS JUAN SEBASTIÁN
 * DONOSO ARENAS IAN EDUARDO NICOLÁS
 * GONZÁLEZ ALARCÓN FERNANDA https://github.com/fernandagonzalezalarcon/laboratorioII/tree/main/Tarea%204
