@@ -39,7 +39,7 @@
 * STUVEN CRIADO FELIPE IGNACIO https://github.com/felipeStuven/Laboratorio_tec_2/blob/main/grafico%20aplicaciones%20interactivas.jpg
 
 ## Tarea 4
-* AGUIRRE DATTOLI CAMILA VALENTINA FRANCISCA
+* AGUIRRE DATTOLI CAMILA VALENTINA FRANCISCA https://github.com/camiaguirred/Laboratorio-tecnologico-2-/tree/main/TAREA%204%20LABORATORIO
 * BENEVENTI GONZÁLEZ CONSTANZA ANDREA
 * BUSTAMANTE GANGAS JUAN SEBASTIÁN
 * DONOSO ARENAS IAN EDUARDO NICOLÁS
