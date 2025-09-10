@@ -1,5 +1,5 @@
 * AGUIRRE DATTOLI CAMILA VALENTINA FRANCISCA
-* BENEVENTI GONZÁLEZ CONSTANZA ANDREA
+* BENEVENTI GONZÁLEZ CONSTANZA ANDREA https://github.com/constanzabeneventi-max/laboratorio-tecnologico-solemne-1/tree/main/laboratorio-tecnologico-solemne-1-main/laboratorio-tecnologico-solemne-1-main
 * BUSTAMANTE GANGAS JUAN SEBASTIÁN
 * DONOSO ARENAS IAN EDUARDO NICOLÁS: https://github.com/magiaanegraa/laboratorio-tecnologico-solemne-1
 * GONZÁLEZ ALARCÓN FERNANDA
