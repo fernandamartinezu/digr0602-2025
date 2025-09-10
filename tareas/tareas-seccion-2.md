@@ -46,7 +46,7 @@
 * GONZÁLEZ ALARCÓN FERNANDA https://github.com/fernandagonzalezalarcon/laboratorioII/tree/main/Tarea%204
 * IVANOVICH RODRÍGUEZ ZARINKA MILENKA
 * MARTÍNEZ MUNDY JOAQUÍN VICENTE
-* MORAGA BETSALEL DANIEL IGNACIO
+* MORAGA BETSALEL DANIEL IGNACIO https://github.com/danielmoraga25/Laboratorio2/tree/main/Tarea%204
 * PARGA LÓPEZ ANTONIA PAZ
 * SANTANA VILLARROEL VIKTOR IGNACIO https://github.com/ViktorSantana1937/LabDesTEc-II/tree/main/Tarea%204
 * STUVEN CRIADO FELIPE IGNACIO https://github.com/felipeStuven/Laboratorio_tec_2/tree/main/tarea%204
