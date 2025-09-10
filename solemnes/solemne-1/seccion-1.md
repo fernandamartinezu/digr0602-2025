@@ -11,6 +11,6 @@
 * MARTÍNEZ UMAÑA FERNANDA VALENTINA
 * MEDEL ANDRADE VALENTINA ANTONIA
 * PADILLA CARRILLO ISIS CAROLINA
-* PONCE NÚÑEZ ERIC ALEJANDRO https://github.com/eric-aponce/Laboratorio-Guille/tree/main/solemne1
+* PONCE NÚÑEZ ERIC ALEJANDRO https://github.com/eric-aponce/laboratorio-tecnol-gico-solemne-1
 * SILVA SEREÑO TAMARA SOLEDAD
 * VERA CASTRO JAVIERA ISABEL
