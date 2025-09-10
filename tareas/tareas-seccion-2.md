@@ -44,7 +44,7 @@
 * BUSTAMANTE GANGAS JUAN SEBASTIÁN https://github.com/juanbustamante94/trabajosemestre-laboratorio/tree/main/trabajo%204
 * DONOSO ARENAS IAN EDUARDO NICOLÁS: https://github.com/magiaanegraa/tarea-4
 * GONZÁLEZ ALARCÓN FERNANDA https://github.com/fernandagonzalezalarcon/laboratorioII/tree/main/Tarea%204
-* IVANOVICH RODRÍGUEZ ZARINKA MILENKA
+* IVANOVICH RODRÍGUEZ ZARINKA MILENKA https://github.com/zarinkaivanovich/laboratorio-2/tree/main/tarea%204
 * MARTÍNEZ MUNDY JOAQUÍN VICENTE
 * MORAGA BETSALEL DANIEL IGNACIO https://github.com/danielmoraga25/Laboratorio2/tree/main/Tarea%204
 * PARGA LÓPEZ ANTONIA PAZ
