@@ -43,7 +43,7 @@
 * GONZÁLEZ VEGA ALONDRA SOL
 * HERNÁNDEZ SILVA ANTONNELA MELISSA https://drive.google.com/drive/folders/1v4gTZNVpnqz7nA031RYgnf6dqfyPRp7R?usp=drive_link
 * HUENULLÁN GONZALEZ FRANSISCA ISIDORA https://github.com/franhuenu/LabGuille/blob/232c366b5856c4461566e38a95e7f8c9f0955fef/Tarea%203
-* LIZANA ZÚÑIGA JOSEFA VALENTINA
+* LIZANA ZÚÑIGA JOSEFA VALENTINA https://accurate-son-4de.notion.site/TAREA-3-26250bf07607803cab90e97a5c5df722?source=copy_link
 * MARCHANT MARTIN ISABELLA CAROLINA
 * MARTÍNEZ UMAÑA FERNANDA VALENTINA https://github.com/fernandamartinezu/Lab.tencologico.tareas/blob/main/Grafico%20suicidios%20en%20Chile.png
 * MEDEL ANDRADE VALENTINA ANTONIA https://polite-beauty-792.notion.site/Tarea-3-LabDesTec-2-2621b29079a980fab427e613f54464ef?source=copy_link
