@@ -6,7 +6,7 @@
 * GONZÁLEZ VEGA ALONDRA SOL
 * HERNÁNDEZ SILVA ANTONNELA MELISSA
 * HUENULLÁN GONZALEZ FRANSISCA ISIDORA
-* LIZANA ZÚÑIGA JOSEFA VALENTINA https://github.com/jo-lizana/j0-lab.2_2025-2/blob/main/laboratorio-tecnologico-solemne-1
+* LIZANA ZÚÑIGA JOSEFA VALENTINA https://github.com/jo-lizana/j0-lab.2_2025-2/tree/main/laboratorio-tecnologico-solemne-1
 * MARCHANT MARTIN ISABELLA CAROLINA
 * MARTÍNEZ UMAÑA FERNANDA VALENTINA
 * MEDEL ANDRADE VALENTINA ANTONIA
