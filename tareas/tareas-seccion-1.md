@@ -48,7 +48,7 @@
 * MARTÍNEZ UMAÑA FERNANDA VALENTINA https://github.com/fernandamartinezu/Lab.tencologico.tareas/blob/main/Grafico%20suicidios%20en%20Chile.png
 * MEDEL ANDRADE VALENTINA ANTONIA https://polite-beauty-792.notion.site/Tarea-3-LabDesTec-2-2621b29079a980fab427e613f54464ef?source=copy_link
 * PADILLA CARRILLO ISIS CAROLINA https://silicon-cast-b58.notion.site/Tarea-3-Visualizaci-n-Datos-261ba3e9deb08070b9a9ef1ce667b0fa?source=copy_link
-* PONCE NÚÑEZ ERIC ALEJANDRO
+* PONCE NÚÑEZ ERIC ALEJANDRO https://www.notion.so/Tarea-3-26a187d962d580e19e58cf27707065ac?source=copy_link
 * SILVA SEREÑO TAMARA SOLEDAD
 * VERA CASTRO JAVIERA ISABEL https://lapis-bugle-f5d.notion.site/TAREA-3-2613ceb82fc480e99de6f0a2df6b0e82?source=copy_link
 
