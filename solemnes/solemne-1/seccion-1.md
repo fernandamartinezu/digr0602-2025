@@ -12,5 +12,5 @@
 * MEDEL ANDRADE VALENTINA ANTONIA
 * PADILLA CARRILLO ISIS CAROLINA https://github.com/IsisPadilla/laboratorio-tecnologico-solemne-1
 * PONCE NÚÑEZ ERIC ALEJANDRO
-* SILVA SEREÑO TAMARA SOLEDAD
+* SILVA SEREÑO TAMARA SOLEDAD https://github.com/tamarasilva-uf/laboratorio-tecnologico-solemne-1
 * VERA CASTRO JAVIERA ISABEL
