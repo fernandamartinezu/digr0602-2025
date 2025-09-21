@@ -7,5 +7,5 @@
 * MARTÍNEZ MUNDY JOAQUÍN VICENTE https://github.com/joaquinmartinez-jpg/laboratorio-tecnologico-solemne-1
 * MORAGA BETSALEL DANIEL IGNACIO https://github.com/danielmoraga25/laboratorio-tecnologico-solemne-1
 * PARGA LÓPEZ ANTONIA PAZ
-* SANTANA VILLARROEL VIKTOR IGNACIO
+* SANTANA VILLARROEL VIKTOR IGNACIO https://github.com/ViktorSantana1937/laboratorio-tecnologico-solemne-1/tree/main
 * STUVEN CRIADO FELIPE IGNACIO
