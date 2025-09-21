@@ -5,7 +5,7 @@
 * GODOY TOBAR ANTONIA
 * GONZÁLEZ VEGA ALONDRA SOL
 * HERNÁNDEZ SILVA ANTONNELA MELISSA
-* HUENULLÁN GONZALEZ FRANSISCA ISIDORA https://github.com/franhuenu/LabGuille/tree/4a9aa251c763dc4ad66cb42fe69f0a886bd2c796/laboratorio-tecnologia-solemne-1
+* HUENULLÁN GONZALEZ FRANSISCA ISIDORA https://github.com/franhuenu/laboratorio-tecnologia-solemnes/tree/4b2d7ca54c56bd1a07883f1757364773668bd85d/laboratorio-tecnologia-solemne-1
 * LIZANA ZÚÑIGA JOSEFA VALENTINA
 * MARCHANT MARTIN ISABELLA CAROLINA
 * MARTÍNEZ UMAÑA FERNANDA VALENTINA
