@@ -3,7 +3,7 @@
 * BUSTAMANTE GANGAS JUAN SEBASTIÁN https://github.com/juanbustamante94/laboratorio-tecnologico-solemne-1/tree/main/solenme%201
 * DONOSO ARENAS IAN EDUARDO NICOLÁS: https://github.com/magiaanegraa/laboratorio-tecnologico-solemne-1
 * GONZÁLEZ ALARCÓN FERNANDA https://github.com/fernandagonzalezalarcon/laboratorio-tecnologico-solemne-1
-* IVANOVICH RODRÍGUEZ ZARINKA MILENKA
+* IVANOVICH RODRÍGUEZ ZARINKA MILENKA https://github.com/zarinkaivanovich/zarinkaivanovich-laboratorio-tecnologico-solemne-1/tree/main/solenme%201
 * MARTÍNEZ MUNDY JOAQUÍN VICENTE https://github.com/joaquinmartinez-jpg/laboratorio-tecnologico-solemne-1
 * MORAGA BETSALEL DANIEL IGNACIO https://github.com/danielmoraga25/laboratorio-tecnologico-solemne-1
 * PARGA LÓPEZ ANTONIA PAZ
