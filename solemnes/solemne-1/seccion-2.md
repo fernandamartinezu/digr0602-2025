@@ -4,7 +4,7 @@
 * DONOSO ARENAS IAN EDUARDO NICOLÁS: https://github.com/magiaanegraa/laboratorio-tecnologico-solemne-1
 * GONZÁLEZ ALARCÓN FERNANDA
 * IVANOVICH RODRÍGUEZ ZARINKA MILENKA
-* MARTÍNEZ MUNDY JOAQUÍN VICENTE
+* MARTÍNEZ MUNDY JOAQUÍN VICENTE https://github.com/joaquinmartinez-jpg/laboratorio-tecnologico-solemne-1
 * MORAGA BETSALEL DANIEL IGNACIO https://github.com/danielmoraga25/laboratorio-tecnologico-solemne-1
 * PARGA LÓPEZ ANTONIA PAZ
 * SANTANA VILLARROEL VIKTOR IGNACIO
