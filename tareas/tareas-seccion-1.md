@@ -49,23 +49,23 @@
 * MEDEL ANDRADE VALENTINA ANTONIA https://polite-beauty-792.notion.site/Tarea-3-LabDesTec-2-2621b29079a980fab427e613f54464ef?source=copy_link
 * PADILLA CARRILLO ISIS CAROLINA https://silicon-cast-b58.notion.site/Tarea-3-Visualizaci-n-Datos-261ba3e9deb08070b9a9ef1ce667b0fa?source=copy_link
 * PONCE NÚÑEZ ERIC ALEJANDRO
-* SILVA SEREÑO TAMARA SOLEDAD
+* SILVA SEREÑO TAMARA SOLEDAD https://carnelian-beak-88a.notion.site/Tarea-3-262a1a80465e8044b94cc70ba66cf31f?source=copy_link
 * VERA CASTRO JAVIERA ISABEL https://lapis-bugle-f5d.notion.site/TAREA-3-2613ceb82fc480e99de6f0a2df6b0e82?source=copy_link
 
 ## Tarea 4
 * CHAMORRO HENRIQUEZ BENJAMIN IGNACIO
 * DÍAZ OLGUÍN CONSTANZA EILIEM
-* GALDAMES ARAYA ALINETTE DAMAR
+* GALDAMES ARAYA ALINETTE DAMAR https://github.com/alinettegaldames/LAB-TAREAS-ll/tree/1fc9dbb253d053a653e11d7d34d7b5f6f4f3b144/Tarea/Tarea%204
 * GARRIDO AGUILERA SOFÍA CATALINA (https://github.com/sofig137/Lab-del-profe-Guille-UWU/tree/4a079aadc5ad70ecb5756d99cc9c658627048238/Tarea%204)
 * GODOY TOBAR ANTONIA
 * GONZÁLEZ VEGA ALONDRA SOL
-* HERNÁNDEZ SILVA ANTONNELA MELISSA
+* HERNÁNDEZ SILVA ANTONNELA MELISSA  https://github.com/antonnelahernandez/LaboratorioTec_II/tree/main/Tarea%204
 * HUENULLÁN GONZALEZ FRANSISCA ISIDORA https://github.com/franhuenu/LabGuille/tree/84a4a33f6c54ecdc98413c557d72e342c2223396/Tarea%204
-* LIZANA ZÚÑIGA JOSEFA VALENTINA
+* LIZANA ZÚÑIGA JOSEFA VALENTINA https://github.com/jo-lizana/j0-lab.2_2025-2/tree/main/tarea%204
 * MARCHANT MARTIN ISABELLA CAROLINA
 * MARTÍNEZ UMAÑA FERNANDA VALENTINA
 * MEDEL ANDRADE VALENTINA ANTONIA https://github.com/valhimedel/LabDesTec/tree/main/Tarea%204
 * PADILLA CARRILLO ISIS CAROLINA https://github.com/IsisPadilla/Curso-Laboratorio/tree/main/tarea4
 * PONCE NÚÑEZ ERIC ALEJANDRO
-* SILVA SEREÑO TAMARA SOLEDAD
+* SILVA SEREÑO TAMARA SOLEDAD https://github.com/tamarasilva-uf/Curso-laboratorio/tree/main/Tarea-4
 * VERA CASTRO JAVIERA ISABEL (https://github.com/Jav1Vera/Tareas/tree/839aa04cd6ac996afddbb9b1681da61ef56158ea/Tarea%204)
