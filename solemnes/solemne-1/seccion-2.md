@@ -8,4 +8,4 @@
 * MORAGA BETSALEL DANIEL IGNACIO https://github.com/danielmoraga25/laboratorio-tecnologico-solemne-1
 * PARGA LÓPEZ ANTONIA PAZ
 * SANTANA VILLARROEL VIKTOR IGNACIO https://github.com/ViktorSantana1937/laboratorio-tecnologico-solemne-1/tree/main
-* STUVEN CRIADO FELIPE IGNACIO
+* STUVEN CRIADO FELIPE IGNACIO https://github.com/felipeStuven/Laboratorio--Tecnologico--Solemne-1/tree/main/Solemne%201%20FINAL
