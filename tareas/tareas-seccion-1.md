@@ -43,13 +43,13 @@
 * GONZÁLEZ VEGA ALONDRA SOL
 * HERNÁNDEZ SILVA ANTONNELA MELISSA https://drive.google.com/drive/folders/1v4gTZNVpnqz7nA031RYgnf6dqfyPRp7R?usp=drive_link
 * HUENULLÁN GONZALEZ FRANSISCA ISIDORA https://github.com/franhuenu/LabGuille/blob/232c366b5856c4461566e38a95e7f8c9f0955fef/Tarea%203
-* LIZANA ZÚÑIGA JOSEFA VALENTINA
+* LIZANA ZÚÑIGA JOSEFA VALENTINA https://accurate-son-4de.notion.site/TAREA-3-26250bf07607803cab90e97a5c5df722?source=copy_link
 * MARCHANT MARTIN ISABELLA CAROLINA
 * MARTÍNEZ UMAÑA FERNANDA VALENTINA https://github.com/fernandamartinezu/Lab.tencologico.tareas/blob/main/Grafico%20suicidios%20en%20Chile.png
 * MEDEL ANDRADE VALENTINA ANTONIA https://polite-beauty-792.notion.site/Tarea-3-LabDesTec-2-2621b29079a980fab427e613f54464ef?source=copy_link
 * PADILLA CARRILLO ISIS CAROLINA https://silicon-cast-b58.notion.site/Tarea-3-Visualizaci-n-Datos-261ba3e9deb08070b9a9ef1ce667b0fa?source=copy_link
 * PONCE NÚÑEZ ERIC ALEJANDRO
-* SILVA SEREÑO TAMARA SOLEDAD
+* SILVA SEREÑO TAMARA SOLEDAD https://carnelian-beak-88a.notion.site/Tarea-3-262a1a80465e8044b94cc70ba66cf31f?source=copy_link
 * VERA CASTRO JAVIERA ISABEL https://lapis-bugle-f5d.notion.site/TAREA-3-2613ceb82fc480e99de6f0a2df6b0e82?source=copy_link
 
 ## Tarea 4
@@ -64,8 +64,8 @@
 * LIZANA ZÚÑIGA JOSEFA VALENTINA
 * MARCHANT MARTIN ISABELLA CAROLINA
 * MARTÍNEZ UMAÑA FERNANDA VALENTINA
-* MEDEL ANDRADE VALENTINA ANTONIA
-* PADILLA CARRILLO ISIS CAROLINA
+* MEDEL ANDRADE VALENTINA ANTONIA https://github.com/valhimedel/LabDesTec/tree/main/Tarea%204
+* PADILLA CARRILLO ISIS CAROLINA https://github.com/IsisPadilla/Curso-Laboratorio/tree/main/tarea4
 * PONCE NÚÑEZ ERIC ALEJANDRO
-* SILVA SEREÑO TAMARA SOLEDAD
+* SILVA SEREÑO TAMARA SOLEDAD https://github.com/tamarasilva-uf/Curso-laboratorio/tree/main/Tarea-4
 * VERA CASTRO JAVIERA ISABEL (https://github.com/Jav1Vera/Tareas/tree/839aa04cd6ac996afddbb9b1681da61ef56158ea/Tarea%204)
