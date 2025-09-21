@@ -1,4 +1,4 @@
-* CHAMORRO HENRIQUEZ BENJAMIN IGNACIO
+* CHAMORRO HENRIQUEZ BENJAMIN IGNACIO https://github.com/Benja-minn/digr0602-2025/tree/main/solemne1
 * DÍAZ OLGUÍN CONSTANZA EILIEM https://github.com/ConiDiaz/Lab-Tecnol-gico-II/tree/main/laboratorio-tecnologico-solemne-1
 * GALDAMES ARAYA ALINETTE DAMAR https://github.com/alinettegaldames/laboratorio-tecnologico-solemne-1.git
 * GARRIDO AGUILERA SOFÍA CATALINA: (https://github.com/sofig137/laboratorio-tecnologico-solemne-1.git)
