@@ -4,7 +4,7 @@
 * GARRIDO AGUILERA SOFÍA CATALINA: (https://github.com/sofig137/laboratorio-tecnologico-solemne-1.git)
 * GODOY TOBAR ANTONIA
 * GONZÁLEZ VEGA ALONDRA SOL
-* HERNÁNDEZ SILVA ANTONNELA MELISSA
+* HERNÁNDEZ SILVA ANTONNELA MELISSA https://github.com/antonnelahernandez/laboratorio-tecnologico-solemne-1
 * HUENULLÁN GONZALEZ FRANSISCA ISIDORA https://github.com/franhuenu/laboratorio-tecnologia-solemnes/tree/4b2d7ca54c56bd1a07883f1757364773668bd85d/laboratorio-tecnologia-solemne-1
 * LIZANA ZÚÑIGA JOSEFA VALENTINA https://github.com/jo-lizana/j0-lab.2_2025-2/tree/main/laboratorio-tecnologico-solemne-1
 * MARCHANT MARTIN ISABELLA CAROLINA
