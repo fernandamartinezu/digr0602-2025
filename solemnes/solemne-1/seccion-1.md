@@ -9,7 +9,7 @@
 * LIZANA ZÚÑIGA JOSEFA VALENTINA
 * MARCHANT MARTIN ISABELLA CAROLINA
 * MARTÍNEZ UMAÑA FERNANDA VALENTINA
-* MEDEL ANDRADE VALENTINA ANTONIA
+* MEDEL ANDRADE VALENTINA ANTONIA https://github.com/valhimedel/LabDesTec/tree/main/solemne1
 * PADILLA CARRILLO ISIS CAROLINA https://github.com/IsisPadilla/laboratorio-tecnologico-solemne-1
 * PONCE NÚÑEZ ERIC ALEJANDRO
 * SILVA SEREÑO TAMARA SOLEDAD https://github.com/tamarasilva-uf/laboratorio-tecnologico-solemne-1
