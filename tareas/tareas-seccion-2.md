@@ -62,4 +62,4 @@
 * MORAGA BETSALEL DANIEL IGNACIO https://github.com/danielmoraga25/Tarea-5
 * PARGA LÓPEZ ANTONIA PAZ
 * SANTANA VILLARROEL VIKTOR IGNACIO https://github.com/ViktorSantana1937/tarea5
-* STUVEN CRIADO FELIPE IGNACIO
+* STUVEN CRIADO FELIPE IGNACIO https://github.com/felipeStuven/Tarea-5
