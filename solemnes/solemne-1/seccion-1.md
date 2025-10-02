@@ -8,7 +8,7 @@
 * HUENULLÁN GONZALEZ FRANSISCA ISIDORA https://github.com/franhuenu/laboratorio-tecnologia-solemnes/tree/4b2d7ca54c56bd1a07883f1757364773668bd85d/laboratorio-tecnologia-solemne-1
 * LIZANA ZÚÑIGA JOSEFA VALENTINA https://github.com/jo-lizana/j0-lab.2_2025-2/tree/main/laboratorio-tecnologico-solemne-1
 * MARCHANT MARTIN ISABELLA CAROLINA https://github.com/isabellamarchant-lang/Laboratorio-tecnologico-solemnne-1.git
-* MARTÍNEZ UMAÑA FERNANDA VALENTINA
+* MARTÍNEZ UMAÑA FERNANDA VALENTINA https://github.com/fernandamartinezu/Solemne1
 * MEDEL ANDRADE VALENTINA ANTONIA https://github.com/valhimedel/LabDesTec/tree/main/solemne1
 * PADILLA CARRILLO ISIS CAROLINA https://github.com/IsisPadilla/laboratorio-tecnologico-solemne-1
 * PONCE NÚÑEZ ERIC ALEJANDRO
