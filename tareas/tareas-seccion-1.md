@@ -29,7 +29,7 @@
 * PADILLA CARRILLO ISIS CAROLINA https://github.com/IsisPadilla/Curso-Laboratorio/tree/main/Tarea_2
 * LIZANA ZÚÑIGA JOSEFA VALENTINA https://github.com/jo-lizana/j0-lab.2_2025-2/tree/main/tarea2
 * MEDEL ANDRADE VALENTINA ANTONIA https://github.com/valhimedel/LabDesTec/tree/main/Tarea2
-* PONCE NÚÑEZ ERIC ALEJANDRO
+* PONCE NÚÑEZ ERIC ALEJANDRO https://github.com/eric-aponce/Laboratorio-Guille/tree/main/tarea2
 * STUVEN CRIADO FELIPE IGNACIO https://github.com/felipeStuven/Laboratorio_tec_2/tree/main/Tarea%202
 * SILVA SEREÑO TAMARA SOLEDAD https://github.com/tamarasilva-uf/Curso-laboratorio/tree/main/Tarea-2
 * VERA CASTRO JAVIERA ISABEL (https://github.com/Jav1Vera/Tareas/tree/main/Tarea2)
@@ -48,7 +48,7 @@
 * MARTÍNEZ UMAÑA FERNANDA VALENTINA https://github.com/fernandamartinezu/Lab.tencologico.tareas/blob/main/Grafico%20suicidios%20en%20Chile.png
 * MEDEL ANDRADE VALENTINA ANTONIA https://polite-beauty-792.notion.site/Tarea-3-LabDesTec-2-2621b29079a980fab427e613f54464ef?source=copy_link
 * PADILLA CARRILLO ISIS CAROLINA https://silicon-cast-b58.notion.site/Tarea-3-Visualizaci-n-Datos-261ba3e9deb08070b9a9ef1ce667b0fa?source=copy_link
-* PONCE NÚÑEZ ERIC ALEJANDRO
+* PONCE NÚÑEZ ERIC ALEJANDRO https://www.notion.so/Tarea-3-26a187d962d580e19e58cf27707065ac?source=copy_link
 * SILVA SEREÑO TAMARA SOLEDAD https://carnelian-beak-88a.notion.site/Tarea-3-262a1a80465e8044b94cc70ba66cf31f?source=copy_link
 * VERA CASTRO JAVIERA ISABEL https://lapis-bugle-f5d.notion.site/TAREA-3-2613ceb82fc480e99de6f0a2df6b0e82?source=copy_link
 
@@ -66,7 +66,7 @@
 * MARTÍNEZ UMAÑA FERNANDA VALENTINA
 * MEDEL ANDRADE VALENTINA ANTONIA https://github.com/valhimedel/LabDesTec/tree/main/Tarea%204
 * PADILLA CARRILLO ISIS CAROLINA https://github.com/IsisPadilla/Curso-Laboratorio/tree/main/tarea4
-* PONCE NÚÑEZ ERIC ALEJANDRO
+* PONCE NÚÑEZ ERIC ALEJANDRO https://github.com/eric-aponce/Laboratorio-Guille/tree/main/tarea%204
 * SILVA SEREÑO TAMARA SOLEDAD https://github.com/tamarasilva-uf/Curso-laboratorio/tree/main/Tarea-4
 * VERA CASTRO JAVIERA ISABEL (https://github.com/Jav1Vera/Tareas/tree/839aa04cd6ac996afddbb9b1681da61ef56158ea/Tarea%204)
 
