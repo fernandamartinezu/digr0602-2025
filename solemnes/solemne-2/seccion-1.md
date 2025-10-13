@@ -1,6 +1,6 @@
 * CHAMORRO HENRIQUEZ BENJAMIN IGNACIO
-* DÍAZ OLGUÍN CONSTANZA EILIEM
-* GALDAMES ARAYA ALINETTE DAMAR
+* DÍAZ OLGUÍN CONSTANZA EILIEM https://github.com/alinettegaldames/laboratorio-tecnologico-solemne-1.git
+* GALDAMES ARAYA ALINETTE DAMAR https://github.com/alinettegaldames/laboratorio-tecnologico-solemne-1.git
 * GARRIDO AGUILERA SOFÍA CATALINA
 * GODOY TOBAR ANTONIA
 * GONZÁLEZ VEGA ALONDRA SOL
