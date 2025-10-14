@@ -11,6 +11,6 @@
 * MARTÍNEZ UMAÑA FERNANDA VALENTINA https://github.com/jo-lizana/SOLEMNE-2
 * MEDEL ANDRADE VALENTINA ANTONIA https://github.com/valhimedel/Solemne-2---Benja-y-Vale
 * PADILLA CARRILLO ISIS CAROLINA
-* PONCE NÚÑEZ ERIC ALEJANDRO
+* PONCE NÚÑEZ ERIC ALEJANDRO https://github.com/eric-aponce/Solemne2_Alondra-Eric.git
 * SILVA SEREÑO TAMARA SOLEDAD
 * VERA CASTRO JAVIERA ISABEL
