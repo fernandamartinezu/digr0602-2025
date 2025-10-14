@@ -10,7 +10,7 @@
 * MARCHANT MARTIN ISABELLA CAROLINA
 * MARTÍNEZ UMAÑA FERNANDA VALENTINA https://github.com/jo-lizana/SOLEMNE-2
 * MEDEL ANDRADE VALENTINA ANTONIA https://github.com/valhimedel/Solemne-2---Benja-y-Vale
-* PADILLA CARRILLO ISIS CAROLINA
+* PADILLA CARRILLO ISIS CAROLINA https://github.com/IsisPadilla/Solemne_2_Silva_Padilla
 * PONCE NÚÑEZ ERIC ALEJANDRO https://github.com/eric-aponce/Solemne2_Alondra-Eric.git
-* SILVA SEREÑO TAMARA SOLEDAD
+* SILVA SEREÑO TAMARA SOLEDAD https://github.com/IsisPadilla/Solemne_2_Silva_Padilla
 * VERA CASTRO JAVIERA ISABEL
