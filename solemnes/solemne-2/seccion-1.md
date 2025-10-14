@@ -2,7 +2,7 @@
 * DÍAZ OLGUÍN CONSTANZA EILIEM
 * GALDAMES ARAYA ALINETTE DAMAR https://github.com/alinettegaldames/laboratorio-tecnologico-solemne-1.git
 * GARRIDO AGUILERA SOFÍA CATALINA: https://github.com/sofig137/laboratorio-tecnologico-solemne-2.git
-* GODOY TOBAR ANTONIA
+* GODOY TOBAR ANTONIA https://github.com/antoniagodoy-cmyk/Solemne2-Chat.git
 * GONZÁLEZ VEGA ALONDRA SOL
 * HERNÁNDEZ SILVA ANTONNELA MELISSA
 * HUENULLÁN GONZALEZ FRANSISCA ISIDORA (https://github.com/Jav1Vera/laboratorio-tecnologico-solemne-2.git)
