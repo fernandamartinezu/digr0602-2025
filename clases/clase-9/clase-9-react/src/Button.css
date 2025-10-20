@@ -1,0 +1,23 @@
+.button{
+    width: 100%;
+    height: 100%;
+    border-bottom: 1px solid black;
+}
+
+.button button{
+    width: 100%;
+    height: 100%;
+    border: none;
+    border-right: 1px solid black;
+    font-size: 30px;
+    background-color: white;
+    cursor: pointer;
+}
+
+.button button:hover{
+    background-color: rgb(240, 252, 255);
+}
+
+.button button:active{
+    background-color: rgb(174, 219, 255);
+}

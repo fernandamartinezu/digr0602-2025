@@ -1,0 +1,23 @@
+.content{
+    width: 100%;
+    height: calc(100vh - 50px);
+    display: flex;
+}
+
+.content button{
+    margin: auto;
+    width: 30%;
+    height: 30%;
+    background-color: rgb(136, 215, 219);
+    border: none;
+    font-size: 40px;
+    cursor: pointer;
+}
+
+.content button:hover{
+    background-color: rgb(90, 184, 189);
+}
+
+.content button:active{
+    background-color: rgb(46, 124, 129);
+}
