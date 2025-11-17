@@ -1,7 +1,7 @@
 * CHAMORRO HENRIQUEZ BENJAMIN IGNACIO https://abstracted-pansy-5f0.notion.site/Solemne-3-2a878241fd4a80aea95ee59beaa8ed26?source=copy_link
 * DÍAZ OLGUÍN CONSTANZA EILIEM
 * GALDAMES ARAYA ALINETTE DAMAR
-* GARRIDO AGUILERA SOFÍA CATALINA
+* GARRIDO AGUILERA SOFÍA CATALINA https://github.com/sofig137/portafolio-web.git
 * GODOY TOBAR ANTONIA
 * GONZÁLEZ VEGA ALONDRA SOL https://github.com/alondragonzalez-art/solemne-3
 * HERNÁNDEZ SILVA ANTONNELA MELISSA

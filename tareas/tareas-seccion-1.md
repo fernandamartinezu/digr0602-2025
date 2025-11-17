@@ -91,7 +91,7 @@
 * CHAMORRO HENRIQUEZ BENJAMIN IGNACIO
 * DÍAZ OLGUÍN CONSTANZA EILIEM https://github.com/ConiDiaz/Tarea6.git
 * GALDAMES ARAYA ALINETTE DAMAR https://github.com/alinettegaldames/laboratorio-tarea-6.git
-* GARRIDO AGUILERA SOFÍA CATALINA 
+* GARRIDO AGUILERA SOFÍA CATALINA https://github.com/sofig137/Lab-tarea-6.git
 * GONZÁLEZ VEGA ALONDRA SOL (https://github.com/alondragonzalez-art/tarea-6)
 * HERNÁNDEZ SILVA ANTONNELA MELISSA
 * HUENULLÁN GONZALEZ FRANSISCA ISIDORA https://github.com/franhuenu/Laboratorio-Tarea-6.git 
