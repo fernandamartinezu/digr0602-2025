@@ -1,4 +1,4 @@
-* CHAMORRO HENRIQUEZ BENJAMIN IGNACIO https://www.figma.com/design/HUOJ9waSnvl4l75Tqy7Vuq/Sin-t%C3%ADtulo?node-id=0-1&t=Lq8XPang71PuXb5U-1
+* CHAMORRO HENRIQUEZ BENJAMIN IGNACIO https://abstracted-pansy-5f0.notion.site/Solemne-3-2a878241fd4a80aea95ee59beaa8ed26?source=copy_link
 * DÍAZ OLGUÍN CONSTANZA EILIEM
 * GALDAMES ARAYA ALINETTE DAMAR
 * GARRIDO AGUILERA SOFÍA CATALINA
