@@ -67,7 +67,7 @@
 ## Tarea 6
 * AGUIRRE DATTOLI CAMILA VALENTINA FRANCISCA
 * BENEVENTI GONZÁLEZ CONSTANZA ANDREA
-* BUSTAMANTE GANGAS JUAN SEBASTIÁN 
+* BUSTAMANTE GANGAS JUAN SEBASTIÁN https://github.com/juanbustamante94/TAREA--6.git
 * DONOSO ARENAS IAN EDUARDO NICOLÁS https://github.com/magiaanegraa/tarea-6
 * GONZÁLEZ ALARCÓN FERNANDA https://github.com/fernandagonzalezalarcon/laboratorioII/tree/main/tarea6
 * IVANOVICH RODRÍGUEZ ZARINKA MILENKA 
