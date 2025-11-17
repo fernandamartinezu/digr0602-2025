@@ -101,5 +101,5 @@
 * MEDEL ANDRADE VALENTINA ANTONIA https://github.com/valhimedel/Tarea-6
 * PADILLA CARRILLO ISIS CAROLINA 
 * PONCE NÚÑEZ ERIC ALEJANDRO
-* SILVA SEREÑO TAMARA SOLEDAD
+* SILVA SEREÑO TAMARA SOLEDAD https://github.com/tamarasilva-uf/laboratorio-tarea-6
 * VERA CASTRO JAVIERA ISABEL (https://github.com/Jav1Vera/laboratorio-tarea-6.git)
