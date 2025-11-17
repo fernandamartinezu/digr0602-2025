@@ -65,7 +65,7 @@
 * STUVEN CRIADO FELIPE IGNACIO https://github.com/felipeStuven/Tarea-5
 
 ## Tarea 6
-* AGUIRRE DATTOLI CAMILA VALENTINA FRANCISCA
+* AGUIRRE DATTOLI CAMILA VALENTINA FRANCISCA https://github.com/camiaguirred/tarea-5
 * BENEVENTI GONZÁLEZ CONSTANZA ANDREA https://github.com/constanzabeneventi-max/tarea6
 * BUSTAMANTE GANGAS JUAN SEBASTIÁN https://github.com/juanbustamante94/TAREA--6.git
 * DONOSO ARENAS IAN EDUARDO NICOLÁS https://github.com/magiaanegraa/tarea-6
