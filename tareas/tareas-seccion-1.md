@@ -92,7 +92,7 @@
 * DÍAZ OLGUÍN CONSTANZA EILIEM https://github.com/ConiDiaz/Tarea6.git
 * GALDAMES ARAYA ALINETTE DAMAR https://github.com/alinettegaldames/laboratorio-tarea-6.git
 * GARRIDO AGUILERA SOFÍA CATALINA 
-* GONZÁLEZ VEGA ALONDRA SOL
+* GONZÁLEZ VEGA ALONDRA SOL (https://github.com/alondragonzalez-art/tarea-6)
 * HERNÁNDEZ SILVA ANTONNELA MELISSA
 * HUENULLÁN GONZALEZ FRANSISCA ISIDORA https://github.com/franhuenu/Laboratorio-Tarea-6.git 
 * LIZANA ZÚÑIGA JOSEFA VALENTINA
