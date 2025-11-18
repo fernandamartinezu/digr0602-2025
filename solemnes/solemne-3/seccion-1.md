@@ -7,7 +7,7 @@
 * HERNÁNDEZ SILVA ANTONNELA MELISSA https://github.com/antonnelahernandez/portafolio-web.git
 * HUENULLÁN GONZALEZ FRANSISCA ISIDORA
 * LIZANA ZÚÑIGA JOSEFA VALENTINA 
-* MARCHANT MARTIN ISABELLA CAROLINA
+* MARCHANT MARTIN ISABELLA CAROLINA https://github.com/isabellamarchant-lang/repositorio-web.git
 * MARTÍNEZ UMAÑA FERNANDA VALENTINA https://github.com/jo-lizana/SOLEMNE-2
 * MEDEL ANDRADE VALENTINA ANTONIA
 * PADILLA CARRILLO ISIS CAROLINA https://github.com/IsisPadilla/portafolio-web
