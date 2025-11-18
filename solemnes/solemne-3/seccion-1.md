@@ -1,5 +1,5 @@
 * CHAMORRO HENRIQUEZ BENJAMIN IGNACIO https://abstracted-pansy-5f0.notion.site/Solemne-3-2a878241fd4a80aea95ee59beaa8ed26?source=copy_link
-* DÍAZ OLGUÍN CONSTANZA EILIEM
+* DÍAZ OLGUÍN CONSTANZA EILIEM https://github.com/ConiDiaz/portafolio-web.git
 * GALDAMES ARAYA ALINETTE DAMAR https://github.com/alinettegaldames/portafolio-web.git
 * GARRIDO AGUILERA SOFÍA CATALINA https://github.com/sofig137/portafolio-web.git
 * GODOY TOBAR ANTONIA
