@@ -13,4 +13,4 @@
 * PADILLA CARRILLO ISIS CAROLINA https://github.com/IsisPadilla/portafolio-web
 * PONCE NÚÑEZ ERIC ALEJANDRO
 * SILVA SEREÑO TAMARA SOLEDAD https://carnelian-beak-88a.notion.site/Solemne-3-2a1a1a80465e801fa421ecfd22c5e259?source=copy_link
-* VERA CASTRO JAVIERA ISABEL
+* VERA CASTRO JAVIERA ISABEL (https://github.com/Jav1Vera/portafolio-web.git)
