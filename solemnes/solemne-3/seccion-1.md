@@ -7,7 +7,7 @@
 * HERNÁNDEZ SILVA ANTONNELA MELISSA https://github.com/antonnelahernandez/portafolio-web.git
 * HUENULLÁN GONZALEZ FRANSISCA ISIDORA https://github.com/franhuenu/-Portafolio-Web.git
 * LIZANA ZÚÑIGA JOSEFA VALENTINA 
-* MARCHANT MARTIN ISABELLA CAROLINA https://github.com/isabellamarchant-lang/repositorio-web.git
+* MARCHANT MARTIN ISABELLA CAROLINA https://github.com/isabellamarchant-lang/portafolio-web.git
 * MARTÍNEZ UMAÑA FERNANDA VALENTINA https://github.com/fernandamartinezu/SOLEMNE-3./tree/main
 * MEDEL ANDRADE VALENTINA ANTONIA https://polite-beauty-792.notion.site/Solemne-3-LabDesTec-2af1b29079a980d0822dfa81a1ea4414?source=copy_link
 * PADILLA CARRILLO ISIS CAROLINA https://github.com/IsisPadilla/portafolio-web
