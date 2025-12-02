@@ -5,7 +5,7 @@
 * GODOY TOBAR ANTONIA
 * GONZÁLEZ VEGA ALONDRA SOL [https://github.com/alondragonzalez-art/solemne-3](https://github.com/alondragonzalez-art/Portafolio-web.git)
 * HERNÁNDEZ SILVA ANTONNELA MELISSA https://github.com/antonnelahernandez/portafolio-web.git
-* HUENULLÁN GONZALEZ FRANSISCA ISIDORA https://github.com/franhuenu/-Portafolio-Web.git
+* HUENULLÁN GONZALEZ FRANSISCA ISIDORA https://github.com/franhuenu/portafolio-web_.git
 * LIZANA ZÚÑIGA JOSEFA VALENTINA 
 * MARCHANT MARTIN ISABELLA CAROLINA https://github.com/isabellamarchant-lang/portafolio-web.git
 * MARTÍNEZ UMAÑA FERNANDA VALENTINA https://github.com/fernandamartinezu/SOLEMNE-3./tree/main
