@@ -3,7 +3,7 @@
 * GALDAMES ARAYA ALINETTE DAMAR https://github.com/alinettegaldames/portafolio-web.git
 * GARRIDO AGUILERA SOFÍA CATALINA https://github.com/sofig137/portafolio-web.git
 * GODOY TOBAR ANTONIA
-* GONZÁLEZ VEGA ALONDRA SOL https://github.com/alondragonzalez-art/solemne-3
+* GONZÁLEZ VEGA ALONDRA SOL [https://github.com/alondragonzalez-art/solemne-3](https://github.com/alondragonzalez-art/Portafolio-web.git)
 * HERNÁNDEZ SILVA ANTONNELA MELISSA https://github.com/antonnelahernandez/portafolio-web.git
 * HUENULLÁN GONZALEZ FRANSISCA ISIDORA https://github.com/franhuenu/-Portafolio-Web.git
 * LIZANA ZÚÑIGA JOSEFA VALENTINA 
